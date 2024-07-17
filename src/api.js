@@ -2,7 +2,7 @@
 
 import axios from "axios";
 
-const API_URL = "http://localhost:8000/api/todos/";
+const API_URL = "http://3.83.84.115:8000/api/todos/";
 
 export const getTodos = async () => {
   try {
